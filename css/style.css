@@ -1,0 +1,75 @@
+body {
+    background-color: #2B2E4A;
+    color: aliceblue;
+    font-family: 'Kanit', sans-serif;
+    font-style: italic;
+}
+/* Header'de yapılan Değişiklikler */
+.header{
+    font-size: 36px;
+    text-align: right;
+}
+a {
+    text-decoration: none; ;
+}
+span {
+    border-radius: 100px;
+    border-style:dotted;
+    width: 200px;
+    height: 200px;
+    text-shadow: #2B2E4A  0 -3px;;
+    font-family: 'Kanit', sans-serif;
+    font-style: italic;
+    background-color:#E84545;
+    color: aliceblue;
+}
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 70px;
+    text-align: left;
+}
+#s1 {
+    border-bottom-left-radius: 10cm;
+}
+/* Header'de Yapılan Değişiklikler bitti */
+/* Section Kısmı */
+#s2 {
+    
+    background-color:#903749; ;
+    color:aliceblue;
+}
+/* section Kısmı Bitti */
+/* Article Kısmı */
+li {
+   text-align: center;
+}
+table.ortala {
+    margin-left:auto;
+    margin-right:auto;
+}
+tr {
+    background-color: #903749;
+}
+#img1 {
+    padding: 70px;
+}
+#img2 {
+    padding: 70px;
+}
+#img3 {
+    padding: 70px;
+}
+#img4 {
+    padding: 70px;
+}
+/* Article kısmı bitti */
+/* Footer Kısmı */
+h3 {
+    font-size: 45px;
+}
+#s3 {
+    font-size: 25px
+}
+#s4 {
+    font-size: 25px;
+}
